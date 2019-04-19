@@ -1,5 +1,5 @@
 # Chi-square
-//This python program helps you solve most chi-square problems you might encounter in high school and college biology classes.
+This python program helps you solve most chi-square problems you might encounter in high school and college biology classes.
 
 
 def chi_square():
